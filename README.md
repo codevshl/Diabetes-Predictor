@@ -3,7 +3,7 @@
 
 # Diabetes Predictor
 <a href="https://github.com/codevshl/Diabetes-Predictor/new/master?readme=1"><div align="center">
-  <img width="453" alt="Diabetes Predictor" src="https://user-images.githubusercontent.com/86508855/182686071-be694a46-2331-4998-8726-ab2e616a43f7.png">
+  <img width="743" alt="Diabetes Predictor" src="https://user-images.githubusercontent.com/91673923/188023290-b5d0b219-ec5f-4c90-94f4-5cc9cb7953c3.png">
 </div>
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.8.5](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
